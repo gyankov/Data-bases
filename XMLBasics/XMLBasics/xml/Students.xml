@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="./styles.xslt"?>
+<urn:students xmlns:urn="http://www.academy.com/">
+  <student>
+    <name>Gosho Goshov</name>
+    <sex>Male</sex>
+    <birth-date>18.01.1995</birth-date>
+    <phone>0895372222</phone>
+    <email>gosho951@abv.bg</email>
+    <course>1</course>
+    <specialty>IT</specialty>
+    <faculty-number>2295</faculty-number>
+    <taken-exams>
+      <exam>
+        <exam-name>LAAG</exam-name>
+        <tutor>prof. Pelova</tutor>
+        <score>90</score>
+      </exam>
+      <exam>
+        <exam-name>Analiz 1</exam-name>
+        <tutor>prof. Stoilova</tutor>
+        <score>90</score>
+      </exam>
+      <exam>
+        <exam-name>Analiz 2</exam-name>
+        <tutor>prof. Stoilova</tutor>
+        <score>99</score>
+      </exam>
+    </taken-exams>
+  </student>
+</urn:students>
