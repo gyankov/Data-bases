@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <file name="album" ext=".xml" />
+    <file name="catalogue" ext=".xml" />
+    <file name="dir" ext=".xml" />
+    <file name="dirXDocument" ext=".xml" />
+    <file name="Person" ext=".txt" />
+    <file name="Person" ext=".xml" />
+    <file name="schema" ext=".xsd" />
+    <file name="style" ext=".xslt" />
+</root>

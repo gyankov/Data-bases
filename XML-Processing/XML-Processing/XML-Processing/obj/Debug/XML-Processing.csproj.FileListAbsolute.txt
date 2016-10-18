@@ -1,0 +1,6 @@
+D:\Telerik\Data-bases\XML-Processing\XML-Processing\XML-Processing\bin\Debug\XML-Processing.exe.config
+D:\Telerik\Data-bases\XML-Processing\XML-Processing\XML-Processing\bin\Debug\XML-Processing.exe
+D:\Telerik\Data-bases\XML-Processing\XML-Processing\XML-Processing\bin\Debug\XML-Processing.pdb
+D:\Telerik\Data-bases\XML-Processing\XML-Processing\XML-Processing\obj\Debug\XML-Processing.csprojResolveAssemblyReference.cache
+D:\Telerik\Data-bases\XML-Processing\XML-Processing\XML-Processing\obj\Debug\XML-Processing.exe
+D:\Telerik\Data-bases\XML-Processing\XML-Processing\XML-Processing\obj\Debug\XML-Processing.pdb
