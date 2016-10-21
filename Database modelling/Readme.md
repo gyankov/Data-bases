@@ -1,0 +1,1 @@
+homework.sql is a scrypt which generates the database with all the diagrams, you can also see screenshots of them in the screenshots folder
